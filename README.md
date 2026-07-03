@@ -59,12 +59,6 @@ A utility for **Baldur's Gate: Enhanced Edition** that helps automate a hold-to-
 - [ ] Learn more about frontend, backend, and desktop app development
 - [ ] Share useful tools and notes as I get better
 
-## Repository description
-
-Recommended GitHub profile repository description:
-
-> Student developer building practical software and learning through real projects.
-
 ---
 
 Thanks for visiting my profile.
